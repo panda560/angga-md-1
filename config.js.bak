@@ -1,8 +1,8 @@
 /**
    * Create By Dika Ardnt.
-   * Recode By Naze Dev & AnggaXyzz
-   * Contact Me on wa.me/6282113821188
-   * Follow https://github.com/nazedev
+   * Recode By M.A.F.PRATAMA
+   * Contact Me on wa.me/6281273677810
+   * Follow https://github.com/panda560
 */
 
 const fs = require('fs')
@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281997496643']
-global.ownernomer = "6281997496643"
-global.premium = ['6281997496643']
+global.owner = ['6281273677810']
+global.ownernomer = "6281273677810"
+global.premium = ['6281273677810']
 global.packname = 'Sticker By'
-global.author = 'AnggaBotz'
+global.author = 'ARTA BOT'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -59,14 +59,14 @@ global.thumb = fs.readFileSync('./media/image/angga.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 
 // Url
-global.mygit = 'https://github.com/AnggaXyzZ'
+global.mygit = 'https://github.com/panda560'
 global.myyt = 'https://youtube.com/channel/UCY89Fb9pCVUeMqEGikvOhNQ'
 global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
-global.mygc = "https://chat.whatsapp.com/I1mlONQxvBlIk5lK7MnOfk"
+global.mygc = "https://chat.whatsapp.com/CB543CoNR8L8DiamwTl2z4"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'AnggaBotz'
-global.akulaku = 'Bot By Angga'
+global.botname = 'ARTA-BOT MD'
+global.akulaku = 'Bot By Pratama'
 global.ytname = 'YT AnggaXyzz' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
