@@ -1,6 +1,6 @@
 /**
    * Create By Dika Ardnt.
-   * Recode By Naze Dev & AnggaXyzz
+   * Recode By M.A.F.PRATAMA
    * Contact Me on wa.me/6281273677810
    * Follow https://github.com/panda560
 */
