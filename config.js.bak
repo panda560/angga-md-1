@@ -61,8 +61,8 @@ global.faall = fs.readFileSync('./media/image/fake.jpg')
 // Url
 global.mygit = 'https://github.com/panda560'
 global.myyt = 'https://youtube.com/channel/UCY89Fb9pCVUeMqEGikvOhNQ'
-global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
-global.mygc = "https://chat.whatsapp.com/CB543CoNR8L8DiamwTl2z4"
+global.myytv = 'https://chat.whatsapp.com/GyicFEhuiwF5NF11vDuxuq'
+global.mygc = "https://chat.whatsapp.com/KiTH8nDNsaQ8rnOnW601U4"
 
 // Engak Ngaruh, Belum Kepasang
 global.botname = 'ARTA-BOT MD'
