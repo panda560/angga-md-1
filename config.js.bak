@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281273677810']
-global.ownernomer = "6281273677810"
-global.premium = ['6281273677810']
+global.owner = ['855389162590']
+global.ownernomer = "855389162590"
+global.premium = ['855389162590']
 global.packname = 'Sticker By'
-global.author = 'ARTA BOT'
+global.author = 'Ejyunofcbotz'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -65,9 +65,9 @@ global.myytv = 'https://chat.whatsapp.com/GyicFEhuiwF5NF11vDuxuq'
 global.mygc = "https://chat.whatsapp.com/KiTH8nDNsaQ8rnOnW601U4"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'ARTA-BOT MD'
-global.akulaku = 'Bot By Pratama'
-global.ytname = 'YT AnggaXyzz' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'Ejyunofcbotz'
+global.akulaku = 'Bot By Rezaganz'
+global.ytname = 'IG arrezza20' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
