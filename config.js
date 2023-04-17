@@ -23,7 +23,7 @@ global.owner = ['6282181337337']
 global.ownernomer = "6282181337337"
 global.premium = ['6282181337337']
 global.packname = 'Sticker By'
-global.author = 'PandaBotz'
+global.author = 'ArtaBotz'
 global.sessionName = 'angga'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -65,7 +65,7 @@ global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
 global.mygc = "https://chat.whatsapp.com/CB543CoNR8L8DiamwTl2z4"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'PandaBotz'
+global.botname = 'ArtaBotz'
 global.akulaku = 'Bot By @arrezza20'
 global.ytname = 'IG arrezza20' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
